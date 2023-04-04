@@ -1,4 +1,28 @@
-# Getting Started with Create React App
+# Carlos Davdi Mato [Perfil Linkedin](https://www.linkedin.com/in/david-mato-88a7a9240/)
+# Proyecto Web de Tiendas  de juguetes didacticos
+Es  la v1.0 de  una web  para una tienda de un emprendimiento familiar de FAbrica de jueguetes didacticos ,
+
+
+ ### npm install @mui/material @emotion/react @emotion/styled
+ Libreria para REACT UI
+
+### `npm install firebase@8.10.0`
+
+Crea una base de datos y muestra la informacion en tu web
+
+### `npm install react-router-dom`
+
+Maneja todo el  ruteo de la web
+
+### `npm install --save-dev node-sass`
+
+Permite estilar la web con el lenguaje de hojas de estilo Sass
+
+### `npm install sweetalert2`
+
+permite mostrar alertas mas amigables con la interfaz
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
