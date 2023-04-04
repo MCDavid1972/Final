@@ -1,0 +1,28 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+  }
+  
+  .nombre {
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  .img {
+    width: 400px;
+    height: auto;
+    margin-bottom: 20px;
+  }
+  
+  .precio {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+  }
+  .descripcion {
+    margin-top: 20px;
+    text-align: justify;
+    line-height: 1.5;
+  }

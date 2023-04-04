@@ -1,0 +1,11 @@
+.addSub {
+    padding-right: 80px;
+    font-size: 30px;
+  color: rgb(43, 196, 247);
+  
+}
+
+.addSub:hover{
+    color: #0074e8;
+  border-color: #000005;
+}
