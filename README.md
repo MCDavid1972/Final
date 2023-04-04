@@ -1,6 +1,6 @@
 # Carlos Davdi Mato [Perfil Linkedin](https://www.linkedin.com/in/david-mato-88a7a9240/)
 # Proyecto Web de Tiendas  de juguetes didacticos
-Es  la v1.0 de  una web  para una tienda de un emprendimiento familiar de FAbrica de jueguetes didacticos ,
+Es  la v1.0 de  una web  para una tienda de un emprendimiento familiar de Fábrica de jueguetes didácticos ,
 
 
  ### npm install @mui/material @emotion/react @emotion/styled
